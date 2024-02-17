@@ -1,18 +1,18 @@
 ### Hi there 👋
 <h1>IM MAHMOUD SAEED</h1>
-👨🏻‍💻  About Me
-🤔   Exploring new technologies and developing software solutions and quick hacks.
-🎓   Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-💼   Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-🌱   Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-✍️   Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-🛠  Tech Stack
-💻   Python Java C++ R (Statistics)
-🌐   HTML5 CSS JavaScript Bootstrap Node.js React
-🛢   MySQL MongoDB
-⚙️   Git GitHub Markdown
-🔧   Visual Studio Code RStudio Eclipse
-🖥   Illustrator Photoshop InDesign
+<h3>👨🏻‍💻  About Me</h3>
+
+<h4>🤔   Exploring new technologies and developing software solutions and quick hacks.</h4>
+<h4>🎓   Studying Computer Science and Mathematics at University of Massachusetts Amherst.</h4>
+<h4>💼   Working as a Business Development Associate at VirtuBox InfoTech Private Limited.</h4>
+<h4>🌱   Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.</h4>
+<h4>✍️   Pursuing Graphic Design and Blog Writing as hobbies/side hustles.</h4>
+<h2>🛠  Tech Stack</h2>
+<h4>💻  skills</h4>
+<h4>🌐   HTML5 CSS JavaScript Bootstrap  React</h4>
+<h4>⚙️   Git GitHub Markdown</h4>
+<h4>🔧   Visual Studio Code RStudio Eclipse</h4>
+🖥   Illustrator Photoshop InDesign</h4>
 
  
 🤝🏻  Connect with Me
