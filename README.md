@@ -3,9 +3,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Im Frontend designer and developer.
+<br/>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+<br/>
 - 🎓 &nbsp; Studying Computer Science .
+<br/>
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+<br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
