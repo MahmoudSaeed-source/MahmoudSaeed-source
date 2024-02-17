@@ -5,12 +5,16 @@
 - 🤔 &nbsp; Im Frontend designer and developer.
 <br/>
 - 🎓 &nbsp; Studying Computer Science .
+<br/>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+<br/>
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+<br/>
 - 💼 &nbsp;  front-end web developer.
+<br/>
 - 🔭 &nbsp; I’m currently learning Nest js Application Development
 <br/>
-<br/>
+
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 <br/>
 
