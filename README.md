@@ -4,9 +4,12 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Im Frontend designer and developer.
 <br/>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-<br/>
 - 🎓 &nbsp; Studying Computer Science .
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp;  front-end web developer.
+- 🔭 &nbsp; I’m currently learning Nest js Application Development
+<br/>
 <br/>
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 <br/>
