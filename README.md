@@ -2,7 +2,7 @@
 <h1>IM MAHMOUD SAEED</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+     - 🤔 &nbsp; Im Frontend designer and developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science .
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
