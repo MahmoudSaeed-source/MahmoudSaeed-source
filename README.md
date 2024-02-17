@@ -15,9 +15,6 @@
 - 🔭 &nbsp; I’m currently learning Nest js Application Development
 <br/>
 
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-<br/>
-
 
  <h2>My Skills</h2>
  
