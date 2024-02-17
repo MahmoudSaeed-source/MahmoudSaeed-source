@@ -19,6 +19,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss).
+  ![sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass).
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
 
